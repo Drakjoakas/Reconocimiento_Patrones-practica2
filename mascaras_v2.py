@@ -23,7 +23,7 @@ def crearMascara(elemento:str):
 
 
 #mascaras huevos
-# crearMascara('huevos')
+crearMascara('huevos')
 
 #mascara platanos
 crearMascara('platanos')
